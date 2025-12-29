@@ -150,13 +150,8 @@ The Flutter application that consumes this API.
 
 **Imane Benchrif** **Imane Amaaz**
 - GitHub: [@ImaneBenchrif](https://github.com/ImaneBenchrif)
-- GitHub: [@ImaneAmaaz]https://github.com/Imaneamaaz
+- GitHub: [@ImaneAmaaz](https://github.com/Imaneamaaz)
 
 ##  License
 
 This project is for educational purposes.
-
----
-
-** Star this repository if you found it helpful!**
-```
